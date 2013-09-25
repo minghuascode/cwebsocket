@@ -1,0 +1,16 @@
+
+Before branching on master: 
+
+tag: snapshot1-draft76
+
+commit 02ca923b75ce94f72f5cb719282812af78ee99d0
+Author: m8rge <to.merge@gmail.com>
+Date:   Sun Mar 25 16:13:06 2012 +0600
+
+
+After branching into br-snapshot1-draft76:
+
+tag: snapshot1-draft76-b1
+with adding this note-br-snapshot1-draft76 file.
+
+
