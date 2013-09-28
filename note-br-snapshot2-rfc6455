@@ -1,0 +1,33 @@
+
+-------------------------------------------------
+Before branching br-snapshot2-rfc6455 on master:
+
+tag: snapshot2-rfc6455
+
+commit b8c3865ad745fc4170a796f3500c0030a890cda2
+Author: Andrey <to.merge@gmail.com>
+Date:   Wed Jul 24 15:08:09 2013 +0600
+
+    Create LICENSE
+
+After branching into br-snapshot2-rfc6455:
+
+tag: snapshot2-rfc6455-b1
+adding this note-br-snapshot2-rfc6455 file.
+
+-------------------------------------------------
+Before branching br-snapshot1-draft76 on master:
+
+tag: snapshot1-draft76
+
+commit 02ca923b75ce94f72f5cb719282812af78ee99d0
+Author: m8rge <to.merge@gmail.com>
+Date: Sun Mar 25 16:13:06 2012 +0600
+
+
+After branching into br-snapshot1-draft76:
+
+tag: snapshot1-draft76-b1
+with adding this note-br-snapshot1-draft76 file.
+
+
